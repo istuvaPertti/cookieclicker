@@ -1,4 +1,4 @@
-﻿Game.Loader.Replace('PerfectCookie.png','<http://orteil.dashnet.org/cookieclicker/img/imperfectCookie.png>');
+﻿
 /*
 All this code is copyright Orteil, 2013-2023.
 	-with some help, advice and fixes by Nicholas Laux, Debugbro, Opti, the folks at Playsaurus, and lots of people on reddit, Discord, and the DashNet forums
@@ -16910,3 +16910,4 @@ window.onload=function()
 		else loadLangAndLaunch(lang);
 	}
 };
+

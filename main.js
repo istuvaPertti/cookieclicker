@@ -2084,7 +2084,7 @@ Game.Launch=function()
 		Game.blendModesOn=(document.createElement('detect').style.mixBlendMode==='');
 		
 		Game.bg='';//background (grandmas and such)
-		Game.bgFade='';//fading to background
+		Game.bgFade='';//fading to backgroundt
 		Game.bgR=0;//ratio (0 - not faded, 1 - fully faded)
 		Game.bgRd=0;//ratio displayed
 		
